@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Contemporary  Upbeat Free Background Music - Enthusiasm.ogg-a7bcc64fed3cceae7c141513c79b18ea.oggstr"
+
+[deps]
+
+source_file="res://Sound/Contemporary  Upbeat Free Background Music - Enthusiasm.ogg"
+dest_files=[ "res://.import/Contemporary  Upbeat Free Background Music - Enthusiasm.ogg-a7bcc64fed3cceae7c141513c79b18ea.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

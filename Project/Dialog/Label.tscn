@@ -1,0 +1,18 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Dialog/Label.tres" type="StyleBox" id=1]
+[ext_resource path="res://Art/Font/Raleway-Regular.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://Dialog/TextEdit.gd" type="Script" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 14
+font_data = ExtResource( 2 )
+
+[node name="Label" type="Label"]
+margin_right = 460.0
+margin_bottom = 47.0
+custom_styles/normal = ExtResource( 1 )
+custom_fonts/font = SubResource( 1 )
+autowrap = true
+script = ExtResource( 3 )
+
